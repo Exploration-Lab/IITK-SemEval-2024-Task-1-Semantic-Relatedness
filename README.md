@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>SemEval 2024 Task 1: Semantic Textual Relatedness for African and Asian Languages
+    <h1>IITK at SemEval 2024 Task 1: Semantic Textual Relatedness for African and Asian Languages
     </h1>
     <a href="url">View Paper</a> 
     |
-    <a href = "https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/issues"> Raise an Issue</a>
+    <a href = "https://github.com/Exploration-Lab/IITK-SemEval-2024-Task-1/issues"> Raise an Issue</a>
     |
-    <a href = "https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/pulls"> Submit Pull Request</a>
+    <a href = "https://github.com/Exploration-Lab/IITK-SemEval-2024-Task-1/pulls"> Submit Pull Request</a>
 </div>
 
 ## Introduction
